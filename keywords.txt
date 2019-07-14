@@ -1,0 +1,8 @@
+NO_KEY	LITERAL1
+Keypad	KEYWORD1
+getKey	KEYWORD2
+getNewKey	KEYWORD2
+prepIrOnRowPins	KEYWORD2
+prepIrOnColumnPins	KEYWORD2
+setDebounceDelay	KEYWORD2
+getDebounceDelay	KEYWORD2
